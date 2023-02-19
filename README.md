@@ -2,7 +2,7 @@
 ### Presentation:
 
 Here is the final project of the Python course in the L3 Computer Science program at Cergy Paris University.
-The main goal of this project is to manipulate digital business cards (vCards) and calendar events.
+The main goal of this project is to manipulate digital business cards (vCards) and calendar events (Ics).
 
 Through this project, we are interested in:
 
