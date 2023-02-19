@@ -28,4 +28,4 @@ The source code is available in the '/src' folder:
 ### Documentation:
 The documentation created with Doxygen is available in the '/doc' directory.
 
-####### This code was created by Nazim KESKES on December 12, 2022.
+###### This code was created by Nazim KESKES on December 12, 2022.
